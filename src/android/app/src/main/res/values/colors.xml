@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The pale blue the Findr artwork sits on. Used for the launch screen so
+         the splash and the app's own background are the same colour and there
+         is no flash between them. -->
+    <color name="splash_background">#EAF1FD</color>
+</resources>

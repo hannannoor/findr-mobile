@@ -1,0 +1,35 @@
+{
+    "name": "Findr",
+    "short_name": "Findr",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EAF1FD",
+    "theme_color": "#14213D",
+    "description": "Campus lost and found for Temasek Polytechnic.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
